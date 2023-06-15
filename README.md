@@ -7,6 +7,8 @@ This repository is for showing how Git and GitHub work
 ## Purpose
 
 ## Deployement
+Changes made in deployement please refer to readme for further implementations
+
 
 ## How to  Contribute
 
